@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome tO sEcOnD sLidE!"
 ---
-Tupac Shakur
+Tupac Shankar
 use the left arrow to go back!
